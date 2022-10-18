@@ -6,3 +6,4 @@ hadoop-3.3.4
 .settings
 data
 spark3
+.ipynb_checkpoints
