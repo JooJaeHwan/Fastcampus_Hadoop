@@ -8,3 +8,5 @@ data
 spark3
 .ipynb_checkpoints
 zeppelin0
+flume
+hive
